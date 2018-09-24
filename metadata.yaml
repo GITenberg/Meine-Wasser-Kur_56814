@@ -1,0 +1,23 @@
+_repo: Meine-Wasser-Kur_56814
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kneipp, Sebastian
+    alias: Kneipp, Anton Sebastian
+    birthdate: 1821
+    deathdate: 1897
+    gutenberg_agent_id: '38736'
+    url: http://www.gutenberg.org/2009/agents/38736
+description: ''
+gutenberg_issued: '2018-03-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56814'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Meine Wasser-Kur
+url: http://www.gutenberg.org/ebooks/56814
